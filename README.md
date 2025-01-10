@@ -1,2 +1,2 @@
 # smit-project
-This is c language code
+This is c language code project.
